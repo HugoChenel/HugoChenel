@@ -9,7 +9,7 @@
 
 🔍 My research revolves around the development and validation of a cutting-edge prototype: a **Digital Twin platform** designed for **virtual clinical trials** and **in silico drug screenings**. This platform leverages the power of **deep multiomics tumor profiling** to create realistic computational models.
 
-🌐 Specifically, my thesis project involves:
+Specifically, my thesis project involves:
 
 🧬 **Integrating multi-omics data**: Bringing together diverse biological data sources to gain a comprehensive understanding of cancer.
 
