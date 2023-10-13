@@ -20,3 +20,6 @@ Specifically, my thesis project involves:
 My aim is to contribute to the advancement of cancer research by developing innovative tools and methodologies that can accelerate drug discovery and improve patient outcomes.
 
 Feel free to explore my GitHub repositories to see some of the projects and contributions related to my research interests. If you have any questions or would like to collaborate, don't hesitate to reach out!
+
+
+                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
