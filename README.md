@@ -21,22 +21,13 @@ Specifically, my thesis project involves:
 My aim is to contribute to the advancement of cancer research by developing innovative tools and methodologies that can accelerate drug discovery and improve patient outcomes.
 
 Feel free to explore my GitHub repositories to see some of the projects and contributions related to my research interests. If you have any questions or would like to collaborate, don't hesitate to reach out!
-
 ## GitHub stats
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HugoChenel&theme=material-palenight&custom_title=Hugo%27s%20Activity%20Graph&hide_border=true)
 
-<a href="https://github.com/hugochenel/github-readme-stats"><img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hugochenel&theme=moltack&show_icons=true" /></a>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugochenel&layout=compact&theme=moltack&show_icons=true" alt="hugochenel" />
- </a>
-</div>
-<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hugochenel&theme=moltack&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugochenel&layout=compact&theme=moltack&show_icons=true)
 
 ## Find me on  
 
-</a>
-<div align="center">
-  <a href="https://www.linkedin.com/in/hugo-chenel-8497681ba" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C)](https://www.linkedin.com/in/hugo-chenel-8497681ba)
