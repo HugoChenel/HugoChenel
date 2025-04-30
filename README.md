@@ -18,8 +18,6 @@ Specifically, my thesis project involves:
 
 🕸 **Multilayer network inference**: Using advanced network inferring tools and analysis techniques to uncover intricate relationships within the data.
 
-💊 **Virtual compound screening**: Applying these insights to perform virtual screenings of potential drug candidates on in-silico, molecularly, and clinically realistic cohorts.
-
 My aim is to contribute to the advancement of cancer research by developing innovative tools and methodologies that can accelerate drug discovery and improve patient outcomes.
 
 Feel free to explore my GitHub repositories to see some of the projects and contributions related to my research interests. If you have any questions or would like to collaborate, don't hesitate to reach out!
@@ -40,17 +38,5 @@ Feel free to explore my GitHub repositories to see some of the projects and cont
 <div align="center">
   <a href="https://www.linkedin.com/in/hugo-chenel-8497681ba" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/@HugoChenel-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white&color=071A2C" alt="Twitter"/>
-  </a>
-</div>
-
-## Support
-
-</a>
-<div align="center">
-  
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hugochenel)
   </a>
 </div>
