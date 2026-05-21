@@ -1,40 +1,80 @@
-## About Me
- 
-📚 **PhD Student (CIFRE thesis)**
+# Hugo Chenel
 
-🔬 **Research Engineer - Evotec** 
+**PhD Student (CIFRE) · Research Engineer at Evotec · Computational Oncology**
 
-👋 Hi there! I'm a passionate researcher and engineer with a focus on cancer research and network theory. Currently, I'm working as a Research Engineer at **Evotec**, where I have the exciting opportunity to bridge the gap between academia and industry. I'm also a dedicated PhD student, conducting my research at the **Cancer Research Center of Toulouse (CRCT)**. My PhD journey is funded by **Evotec**, which allows me to explore innovative avenues in cancer research and drug discovery.
+Toulouse, France — CRCT / Vera Pancaldi Lab × Evotec
 
-<img src="https://media.giphy.com/media/YRzQnWzbn4WIxd3ZYx/giphy.gif">
-  
+---
+
+## About
+
+I am a PhD student and research engineer developing computational methods at the intersection of cancer biology, multi-omics data integration, and systems medicine. My CIFRE thesis is co-supervised by the [Cancer Research Center of Toulouse (CRCT)](https://www.crct-inserm.fr/) and funded by [Evotec](https://www.evotec.com/), bridging academic research and industrial drug discovery.
+
+---
+
 ## Research Focus
 
-🔍 My research revolves around the development and validation of a cutting-edge prototype: a **Digital Twin platform** designed for **virtual clinical trials** and **in silico drug screenings**. This platform leverages the power of **deep multiomics tumor profiling** to create realistic computational models.
+- **Multi-omics integration** — bulk RNA-seq, single-cell RNA-seq, and beyond, applied to tumor characterization
+- **Multilayer network inference** — reconstructing gene regulatory and molecular interaction networks from heterogeneous omics data
+- **Digital twins for oncology** — building patient-level computational models to simulate disease progression and drug response
+- **Virtual clinical trials & in silico drug screening** — translating tumor profiles into actionable pharmacological predictions
+- **Machine learning for omics** — deep learning and statistical models for high-dimensional biological data
 
-Specifically, my thesis project involves:
+---
 
-🧬 **Integrating multi-omics data**: Bringing together diverse biological data sources to gain a comprehensive understanding of cancer.
+## Selected Projects
 
-🕸 **Multilayer network inference**: Using advanced network inferring tools and analysis techniques to uncover intricate relationships within the data.
+| Project | Description | Stack |
+|---|---|---|
+| [Project name](https://github.com/HugoChenel/REPO_1) | Short description — e.g., pipeline for bulk RNA-seq differential expression and pathway analysis | Python, R |
+| [Project name](https://github.com/HugoChenel/REPO_2) | Short description — e.g., single-cell RNA-seq clustering and cell-type deconvolution | Python, Scanpy |
+| [Project name](https://github.com/HugoChenel/REPO_3) | Short description — e.g., multilayer network inference from multi-omics tumor data | R, Python |
 
-My aim is to contribute to the advancement of cancer research by developing innovative tools and methodologies that can accelerate drug discovery and improve patient outcomes.
+> Replace placeholders with your actual repository names and descriptions.
 
-Feel free to explore my GitHub repositories to see some of the projects and contributions related to my research interests. If you have any questions or would like to collaborate, don't hesitate to reach out!
+---
 
-## GitHub stats
+## Technical Stack
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HugoChenel&theme=material-palenight&custom_title=Hugo%27s%20Activity%20Graph&hide_border=true)
+**Languages** — Python · R · Bash
+
+**Omics & bioinformatics** — Scanpy · Seurat · DESeq2 · edgeR · STAR · Salmon · GSEA
+
+**Networks & systems biology** — iGraph · NetworkX · CARNIVAL · custom multilayer frameworks
+
+**ML / DL** — scikit-learn · PyTorch · VAE-based models
+
+**Workflow & infra** — Snakemake · Nextflow · Docker · Git · HPC (SLURM)
+
+---
+
+## Current Work
+
+- CIFRE PhD at CRCT (Vera Pancaldi Lab) × Evotec
+- Building a digital twin platform for virtual clinical trials in oncology
+- Integrating bulk and single-cell transcriptomics to model tumor heterogeneity
+- Multilayer network approaches to identify drug targets from multi-omics profiles
+
+---
+
+## GitHub Activity
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HugoChenel&theme=material-palenight&custom_title=Activity&hide_border=true)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugochenel&layout=compact&theme=moltack&show_icons=true" alt="hugochenel" />
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugochenel&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 </p>
 
-## Find me on  
+---
 
-<p align="center">
+## Contact
+
+<p>
   <a href="https://www.linkedin.com/in/hugo-chenel-8497681ba" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:hugo1chenel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
