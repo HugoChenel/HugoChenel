@@ -1,25 +1,40 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/YRzQnWzbn4WIxd3ZYx/giphy.gif" width="200" alt=""/>
+<table border="0" cellspacing="10" cellpadding="0" align="center">
+<tr>
+<td width="58%" valign="middle">
 
 <h1>Hugo Chenel</h1>
 
 <p>
-  <strong>PhD Student (CIFRE) &nbsp;·&nbsp; Research Engineer @ Evotec</strong><br/>
-  <em>CRCT / Vera Pancaldi Lab × Evotec &nbsp;·&nbsp; Toulouse, France</em>
+  <strong>PhD Candidate (CIFRE) @CRCT &nbsp;·&nbsp; Research Engineer @ Evotec</strong><br/>
+  <em>Vera Pancaldi Lab × isR&amp;D Evotec &nbsp;·&nbsp; Toulouse, France</em>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Computational+oncology+%7C+Systems+biology;Bulk+%26+scRNA-seq+%7C+Multilayer+network+inference;Digital+twins+%7C+ML+for+omics" alt="Typing SVG"/>
+<p>Computational oncology at the intersection of multi-omics, systems biology, and AI-driven drug discovery.</p>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&vCenter=true&width=460&lines=Cancer+multi--omics+%7C+Systems+biology;Bulk+%26+scRNA--seq+%7C+Network+inference;Digital+twins+%7C+In+silico+drug+screening" alt="Typing SVG"/>
 
-<img src="https://img.shields.io/badge/Cancer%20Genomics-A93226?style=flat-square" alt="Cancer Genomics"/>
-<img src="https://img.shields.io/badge/Bulk%20%26%20scRNA--seq-1A6098?style=flat-square" alt="Bulk & scRNA-seq"/>
-<img src="https://img.shields.io/badge/Multi--omics-1E8449?style=flat-square" alt="Multi-omics"/>
-<img src="https://img.shields.io/badge/Network%20Biology-6C3483?style=flat-square" alt="Network Biology"/>
-<img src="https://img.shields.io/badge/ML%20for%20Omics-2E86C1?style=flat-square" alt="ML for Omics"/>
-<img src="https://img.shields.io/badge/Digital%20Twins-B7770D?style=flat-square" alt="Digital Twins"/>
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/YRzQnWzbn4WIxd3ZYx/giphy.gif" width="240" alt=""/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Cancer%20Multi--omics-A93226?style=flat-square" alt="Cancer Multi-omics"/>
+<img src="https://img.shields.io/badge/Bulk%20RNA--seq-1A5276?style=flat-square" alt="Bulk RNA-seq"/>
+<img src="https://img.shields.io/badge/scRNA--seq-117A65?style=flat-square" alt="scRNA-seq"/>
 <img src="https://img.shields.io/badge/Systems%20Biology-2C3E50?style=flat-square" alt="Systems Biology"/>
+<img src="https://img.shields.io/badge/Network%20Inference-6C3483?style=flat-square" alt="Network Inference"/>
+<img src="https://img.shields.io/badge/ML%20%2F%20Deep%20Learning-2471A3?style=flat-square" alt="ML / Deep Learning"/>
+<img src="https://img.shields.io/badge/Digital%20Twins-B7770D?style=flat-square" alt="Digital Twins"/>
+<img src="https://img.shields.io/badge/Virtual%20Clinical%20Trials-1E8449?style=flat-square" alt="Virtual Clinical Trials"/>
+<img src="https://img.shields.io/badge/In%20Silico%20Drug%20Screening-7D3C98?style=flat-square" alt="In Silico Drug Screening"/>
 
 </div>
 
@@ -27,62 +42,45 @@
 
 ---
 
-## What I Build
-
-I develop computational methods and pipelines at the junction of **cancer biology**, **systems medicine**, and **machine learning**. My CIFRE thesis runs between the [Cancer Research Center of Toulouse (CRCT)](https://www.crct-inserm.fr/) and [Evotec](https://www.evotec.com/), placing my work at the academic–industry interface of translational oncology.
-
-- Multi-omics analysis pipelines — bulk RNA-seq, scRNA-seq, and cross-modality data integration
-- Multilayer biological network inference and analysis
-- Patient stratification models and tumor heterogeneity characterization
-- Digital twin prototypes for virtual clinical trials and in silico drug screening
-
----
-
 ## Research Focus
 
-| Topic | Description |
-|:---|:---|
-| **Multi-omics integration** | Combining bulk RNA-seq, scRNA-seq, and other modalities to characterize tumor biology |
-| **Multilayer network inference** | Reconstructing gene regulatory and molecular interaction networks from heterogeneous data |
-| **Digital twins** | Patient-level computational models for simulating disease progression and drug response |
-| **In silico drug screening** | Translating omics profiles into pharmacological predictions to prioritize drug candidates |
-| **ML / DL for omics** | Statistical and deep learning models applied to high-dimensional biological datasets |
-| **Patient stratification** | Identifying clinically meaningful tumor subgroups from transcriptomic and multi-omics profiles |
+<table border="0" align="center">
+<tr>
+<td align="center" valign="top" width="30%">
+<strong>Transcriptomics</strong><br/><br/>
+Bulk RNA-seq and single-cell RNA-seq for cancer multi-omics profiling and tumor characterization
+</td>
+<td width="4%"></td>
+<td align="center" valign="top" width="30%">
+<strong>Computational Modeling</strong><br/><br/>
+Systems biology, gene regulatory network inference, and ML/deep learning for high-dimensional omics data
+</td>
+<td width="4%"></td>
+<td align="center" valign="top" width="30%">
+<strong>Translational Oncology</strong><br/><br/>
+Digital twin models, virtual clinical trials, and in silico drug screening from multi-omics tumor profiles
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
 ## Featured Projects
 
-<table>
+<table border="0">
 <tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/HugoChenel/REPO_1">Project 1</a></h4>
-<p>Replace with your description — e.g., bulk RNA-seq differential expression and pathway enrichment pipeline for tumor samples.</p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<td valign="top">
+<h4><a href="https://github.com/VeraPancaldiLab/CLL_GRN_paper">CLL_GRN_paper</a></h4>
+<p>Gene regulatory network analysis in Chronic Lymphocytic Leukemia — developed at the Vera Pancaldi Lab, CRCT.</p>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
-</td>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/HugoChenel/REPO_2">Project 2</a></h4>
-<p>Replace with your description — e.g., scRNA-seq clustering, trajectory analysis, and cell-type annotation in the tumor microenvironment.</p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Scanpy-0E6655?style=flat-square" alt="Scanpy"/>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/HugoChenel/REPO_3">Project 3</a></h4>
-<p>Replace with your description — e.g., multilayer network inference from multi-omics data to identify therapeutic targets in cancer.</p>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-</td>
-<td width="50%" valign="top">
-<br/>
-<em>More coming soon</em>
+<img src="https://img.shields.io/badge/VeraPancaldiLab-2C3E50?style=flat-square&logo=github&logoColor=white" alt="VeraPancaldiLab"/>
 </td>
 </tr>
 </table>
 
-> Replace `REPO_1/2/3` with your actual repository slugs and descriptions.
+<br/>
 
 ---
 
@@ -119,41 +117,14 @@ I develop computational methods and pipelines at the junction of **cancer biolog
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![HPC/SLURM](https://img.shields.io/badge/HPC%20%7C%20SLURM-34495E?style=flat-square)
 
----
-
-## Current Work
-
-> **CIFRE PhD** — CRCT (Vera Pancaldi Lab) × Evotec
-
-- Developing a **digital twin platform** for virtual clinical trials in oncology
-- Integrating **bulk RNA-seq and scRNA-seq** to model tumor heterogeneity and cell states
-- Applying **multilayer network inference** to identify therapeutic targets from multi-omics profiles
-- Exploring **ML/deep learning** for patient stratification and drug response prediction
-
----
-
-## GitHub Activity
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HugoChenel&theme=material-palenight&custom_title=Contribution%20Activity&hide_border=true)
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugochenel&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top languages"/>
-</p>
+<br/>
 
 ---
 
 ## Contact
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/hugo-chenel-8497681ba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:hugo1chenel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/HugoChenel">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
