@@ -11,11 +11,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cancer+multi--omics+%7C+Systems+biology;Bulk+%26+scRNA--seq+%7C+Network+inference;Digital+twins+%7C+In+silico+drug+screening" style="max-width:100%;display:block;margin:auto;" alt="Typing SVG"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://media.giphy.com/media/YRzQnWzbn4WIxd3ZYx/giphy.gif" width="300" style="max-width:80%;height:auto;" alt=""/>
+<img src="https://media.giphy.com/media/YRzQnWzbn4WIxd3ZYx/giphy.gif" width="300" style="border-radius:14px;border:3px solid #58A6FF;box-shadow:0 0 18px rgba(88,166,255,0.35);display:block;margin:auto;max-width:80%;height:auto;" alt=""/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Cancer%20Multi--omics-A93226?style=flat-square" alt="Cancer Multi-omics"/>
 <img src="https://img.shields.io/badge/Bulk%20RNA--seq-1A5276?style=flat-square" alt="Bulk RNA-seq"/>
@@ -35,20 +35,20 @@
 
 ## Research
 
-<table border="0" align="center">
+<table border="0" align="center" cellpadding="14">
 <tr>
 <td align="center" valign="top" width="30%">
-<strong>Transcriptomics</strong><br/><br/>
+<img src="https://img.shields.io/badge/Transcriptomics-117A65?style=for-the-badge" alt="Transcriptomics"/><br/><br/>
 Bulk RNA-seq and single-cell RNA-seq for cancer multi-omics profiling and tumor characterization
 </td>
 <td width="4%"></td>
 <td align="center" valign="top" width="30%">
-<strong>Computational Modeling</strong><br/><br/>
+<img src="https://img.shields.io/badge/Computational%20Modeling-1A5276?style=for-the-badge" alt="Computational Modeling"/><br/><br/>
 Systems biology, gene regulatory network inference, and ML/deep learning for high-dimensional omics data
 </td>
 <td width="4%"></td>
 <td align="center" valign="top" width="30%">
-<strong>Translational Oncology</strong><br/><br/>
+<img src="https://img.shields.io/badge/Translational%20Oncology-7D3C98?style=for-the-badge" alt="Translational Oncology"/><br/><br/>
 Digital twin models, virtual clinical trials, and in silico drug screening from multi-omics tumor profiles
 </td>
 </tr>
@@ -110,9 +110,6 @@ Digital twin models, virtual clinical trials, and in silico drug screening from 
 ![Nextflow](https://img.shields.io/badge/Nextflow-3CA4FF?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![HPC/SLURM](https://img.shields.io/badge/HPC%20%7C%20SLURM-34495E?style=flat-square)
 
 <br/>
 
