@@ -44,28 +44,20 @@
 
 ## Research
 
-<table border="0" cellpadding="12">
+<table border="0" align="center">
 <tr>
-<td width="1%" valign="middle">
-<img src="https://img.shields.io/badge/Transcriptomics-1A5276?style=for-the-badge" alt="Transcriptomics"/>
-</td>
-<td valign="middle">
+<td align="center" valign="top" width="30%">
+<img src="https://img.shields.io/badge/Transcriptomics-1A5276?style=flat-square" alt="Transcriptomics"/><br/><br/>
 Bulk RNA-seq and single-cell RNA-seq for cancer multi-omics profiling and tumor characterization
 </td>
-</tr>
-<tr>
-<td width="1%" valign="middle">
-<img src="https://img.shields.io/badge/Computational%20Modeling-6C3483?style=for-the-badge" alt="Computational Modeling"/>
-</td>
-<td valign="middle">
+<td width="4%"></td>
+<td align="center" valign="top" width="30%">
+<img src="https://img.shields.io/badge/Computational%20Modeling-6C3483?style=flat-square" alt="Computational Modeling"/><br/><br/>
 Systems biology, gene regulatory network inference, and ML/deep learning for high-dimensional omics data
 </td>
-</tr>
-<tr>
-<td width="1%" valign="middle">
-<img src="https://img.shields.io/badge/Translational%20Oncology-1E8449?style=for-the-badge" alt="Translational Oncology"/>
-</td>
-<td valign="middle">
+<td width="4%"></td>
+<td align="center" valign="top" width="30%">
+<img src="https://img.shields.io/badge/Translational%20Oncology-1E8449?style=flat-square" alt="Translational Oncology"/><br/><br/>
 Digital twin models, virtual clinical trials, and in silico drug screening from multi-omics tumor profiles
 </td>
 </tr>
