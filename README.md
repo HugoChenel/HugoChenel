@@ -13,10 +13,6 @@
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/YRzQnWzbn4WIxd3ZYx/giphy.gif" width="300" style="border-radius:14px;border:3px solid #58A6FF;box-shadow:0 0 18px rgba(88,166,255,0.35);display:block;margin:auto;max-width:80%;height:auto;" alt=""/>
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/Cancer%20Multi--omics-A93226?style=flat-square" alt="Cancer Multi-omics"/>
 <img src="https://img.shields.io/badge/Bulk%20RNA--seq-1A5276?style=flat-square" alt="Bulk RNA-seq"/>
 <img src="https://img.shields.io/badge/scRNA--seq-117A65?style=flat-square" alt="scRNA-seq"/>
