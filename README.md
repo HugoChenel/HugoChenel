@@ -1,28 +1,19 @@
 <div align="center">
 
-<table border="0" cellspacing="10" cellpadding="0" align="center">
-<tr>
-<td width="58%" valign="middle">
-
 <h1>Hugo Chenel</h1>
 
 <p>
-  <strong>PhD Candidate (CIFRE) @CRCT &nbsp;·&nbsp; Research Engineer @ Evotec</strong><br/>
+  <strong>PhD Candidate (CIFRE) <a href="https://www.crct-inserm.fr/en/">@CRCT</a> &nbsp;·&nbsp; Research Engineer <a href="https://www.evotec.com/en/">@Evotec</a></strong><br/>
   <em>Vera Pancaldi Lab × isR&amp;D Evotec &nbsp;·&nbsp; Toulouse, France</em>
 </p>
 
 <p>Computational oncology at the intersection of multi-omics, systems biology, and AI-driven drug discovery.</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&vCenter=true&width=520&lines=Cancer+multi--omics+%7C+Systems+biology;Bulk+%26+scRNA--seq+%7C+Network+inference;Digital+twins+%7C+In+silico+drug+screening" style="max-width:100%;display:block;" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cancer+multi--omics+%7C+Systems+biology;Bulk+%26+scRNA--seq+%7C+Network+inference;Digital+twins+%7C+In+silico+drug+screening" style="max-width:100%;display:block;margin:auto;" alt="Typing SVG"/>
 
-</td>
-<td width="42%" align="center" valign="middle">
+<br/>
 
-<img src="https://media.giphy.com/media/YRzQnWzbn4WIxd3ZYx/giphy.gif" width="220" style="max-width:100%;height:auto;" alt=""/>
-
-</td>
-</tr>
-</table>
+<img src="https://media.giphy.com/media/YRzQnWzbn4WIxd3ZYx/giphy.gif" width="300" style="max-width:80%;height:auto;" alt=""/>
 
 <br/>
 
@@ -47,17 +38,17 @@
 <table border="0" align="center">
 <tr>
 <td align="center" valign="top" width="30%">
-<img src="https://img.shields.io/badge/Transcriptomics-1A5276?style=flat-square" alt="Transcriptomics"/><br/><br/>
+<strong>Transcriptomics</strong><br/><br/>
 Bulk RNA-seq and single-cell RNA-seq for cancer multi-omics profiling and tumor characterization
 </td>
 <td width="4%"></td>
 <td align="center" valign="top" width="30%">
-<img src="https://img.shields.io/badge/Computational%20Modeling-6C3483?style=flat-square" alt="Computational Modeling"/><br/><br/>
+<strong>Computational Modeling</strong><br/><br/>
 Systems biology, gene regulatory network inference, and ML/deep learning for high-dimensional omics data
 </td>
 <td width="4%"></td>
 <td align="center" valign="top" width="30%">
-<img src="https://img.shields.io/badge/Translational%20Oncology-1E8449?style=flat-square" alt="Translational Oncology"/><br/><br/>
+<strong>Translational Oncology</strong><br/><br/>
 Digital twin models, virtual clinical trials, and in silico drug screening from multi-omics tumor profiles
 </td>
 </tr>
