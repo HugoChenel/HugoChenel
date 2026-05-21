@@ -13,12 +13,12 @@
 
 <p>Computational oncology at the intersection of multi-omics, systems biology, and AI-driven drug discovery.</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&vCenter=true&width=460&lines=Cancer+multi--omics+%7C+Systems+biology;Bulk+%26+scRNA--seq+%7C+Network+inference;Digital+twins+%7C+In+silico+drug+screening" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&vCenter=true&width=520&lines=Cancer+multi--omics+%7C+Systems+biology;Bulk+%26+scRNA--seq+%7C+Network+inference;Digital+twins+%7C+In+silico+drug+screening" style="max-width:100%;display:block;" alt="Typing SVG"/>
 
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/YRzQnWzbn4WIxd3ZYx/giphy.gif" width="240" alt=""/>
+<img src="https://media.giphy.com/media/YRzQnWzbn4WIxd3ZYx/giphy.gif" width="220" style="max-width:100%;height:auto;" alt=""/>
 
 </td>
 </tr>
@@ -44,20 +44,28 @@
 
 ## Research
 
-<table border="0" align="center">
+<table border="0" cellpadding="12">
 <tr>
-<td align="center" valign="top" width="30%">
-<img src="https://img.shields.io/badge/Transcriptomics-1A5276?style=flat-square" alt="Transcriptomics"/><br/><br/>
+<td width="1%" valign="middle">
+<img src="https://img.shields.io/badge/Transcriptomics-1A5276?style=for-the-badge" alt="Transcriptomics"/>
+</td>
+<td valign="middle">
 Bulk RNA-seq and single-cell RNA-seq for cancer multi-omics profiling and tumor characterization
 </td>
-<td width="4%"></td>
-<td align="center" valign="top" width="30%">
-<img src="https://img.shields.io/badge/Computational%20Modeling-6C3483?style=flat-square" alt="Computational Modeling"/><br/><br/>
+</tr>
+<tr>
+<td width="1%" valign="middle">
+<img src="https://img.shields.io/badge/Computational%20Modeling-6C3483?style=for-the-badge" alt="Computational Modeling"/>
+</td>
+<td valign="middle">
 Systems biology, gene regulatory network inference, and ML/deep learning for high-dimensional omics data
 </td>
-<td width="4%"></td>
-<td align="center" valign="top" width="30%">
-<img src="https://img.shields.io/badge/Translational%20Oncology-1E8449?style=flat-square" alt="Translational Oncology"/><br/><br/>
+</tr>
+<tr>
+<td width="1%" valign="middle">
+<img src="https://img.shields.io/badge/Translational%20Oncology-1E8449?style=for-the-badge" alt="Translational Oncology"/>
+</td>
+<td valign="middle">
 Digital twin models, virtual clinical trials, and in silico drug screening from multi-omics tumor profiles
 </td>
 </tr>
@@ -69,13 +77,19 @@ Digital twin models, virtual clinical trials, and in silico drug screening from 
 
 ## Featured Projects
 
-<table border="0">
+<table border="0" cellpadding="16">
 <tr>
 <td valign="top">
-<h4><a href="https://github.com/VeraPancaldiLab/CLL_GRN_paper">CLL_GRN_paper</a></h4>
-<p>Gene regulatory network analysis in Chronic Lymphocytic Leukemia — developed at the Vera Pancaldi Lab, CRCT.</p>
+<h3><a href="https://github.com/VeraPancaldiLab/CLL_GRN_paper">CLL_GRN_paper</a></h3>
+<p><strong>Systems Biology &nbsp;·&nbsp; Gene Regulatory Networks &nbsp;·&nbsp; Chronic Lymphocytic Leukemia</strong></p>
+<p>Gene regulatory network reconstruction and analysis in CLL — integrating bulk transcriptomics, network inference, and systems biology approaches. Vera Pancaldi Lab, CRCT.</p>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
-<img src="https://img.shields.io/badge/VeraPancaldiLab-2C3E50?style=flat-square&logo=github&logoColor=white" alt="VeraPancaldiLab"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Systems%20Biology-2C3E50?style=flat-square" alt="Systems Biology"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GRN%20Inference-6C3483?style=flat-square" alt="GRN Inference"/>
+&nbsp;
+<img src="https://img.shields.io/badge/VeraPancaldiLab-181717?style=flat-square&logo=github&logoColor=white" alt="VeraPancaldiLab"/>
 </td>
 </tr>
 </table>
